@@ -1,0 +1,3 @@
+Empresa: UTN-INSPT
+Dimension de vector: 50
+IVA: 21.00
